@@ -1,0 +1,1751 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
+      "brand": "Essence",
+      "sku": "RCH45Q1A",
+      "weight": 2,
+      "dimensions": {
+        "width": 23.17,
+        "height": 14.43,
+        "depth": 28.01
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 24,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035109868",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": "2",
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 44,
+      "tags": [
+        "beauty",
+        "eyeshadow"
+      ],
+      "brand": "Glamour Beauty",
+      "sku": "MVCFH27F",
+      "weight": 3,
+      "dimensions": {
+        "width": 12.42,
+        "height": 8.63,
+        "depth": 29.13
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 32,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "2817839095220",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": "3",
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 18.14,
+      "rating": 3.82,
+      "stock": 59,
+      "tags": [
+        "beauty",
+        "face powder"
+      ],
+      "brand": "Velvet Touch",
+      "sku": "9EN8WLT2",
+      "weight": 8,
+      "dimensions": {
+        "width": 24.16,
+        "height": 10.7,
+        "depth": 11.07
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Levi Hicks",
+          "reviewerEmail": "levi.hicks@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 25,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "0516267971277",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+    },
+    {
+      "id": "4",
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "discountPercentage": 19.03,
+      "rating": 2.51,
+      "stock": 68,
+      "tags": [
+        "beauty",
+        "lipstick"
+      ],
+      "brand": "Chic Cosmetics",
+      "sku": "O5IF1NTA",
+      "weight": 5,
+      "dimensions": {
+        "width": 14.37,
+        "height": 13.94,
+        "depth": 14.6
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Carter Rivera",
+          "reviewerEmail": "carter.rivera@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 6,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "9444582199406",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": "5",
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty",
+      "price": 8.99,
+      "discountPercentage": 2.46,
+      "rating": 3.91,
+      "stock": 71,
+      "tags": [
+        "beauty",
+        "nail polish"
+      ],
+      "brand": "Nail Couture",
+      "sku": "YUIIIP4W",
+      "weight": 9,
+      "dimensions": {
+        "width": 8.11,
+        "height": 10.89,
+        "depth": 29.06
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "3212847902461",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": "6",
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "discountPercentage": 0.32,
+      "rating": 4.85,
+      "stock": 17,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Calvin Klein",
+      "sku": "DZM2JQZE",
+      "weight": 5,
+      "dimensions": {
+        "width": 11.53,
+        "height": 14.44,
+        "depth": 6.81
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 20,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "2210136215089",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": "7",
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "category": "fragrances",
+      "price": 129.99,
+      "discountPercentage": 18.64,
+      "rating": 2.76,
+      "stock": 41,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Chanel",
+      "sku": "K71HBCGS",
+      "weight": 4,
+      "dimensions": {
+        "width": 21.27,
+        "height": 28,
+        "depth": 11.89
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "1435582999795",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    },
+    {
+      "id": "8",
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "category": "fragrances",
+      "price": 89.99,
+      "discountPercentage": 17.44,
+      "rating": 3.31,
+      "stock": 91,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Dior",
+      "sku": "E70NB03B",
+      "weight": 10,
+      "dimensions": {
+        "width": 21.51,
+        "height": 7,
+        "depth": 26.51
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Zoe Nicholson",
+          "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 8,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "0887083199279",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+    },
+    {
+      "id": "9",
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "discountPercentage": 11.47,
+      "rating": 2.68,
+      "stock": 3,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Dolce & Gabbana",
+      "sku": "1NBFK980",
+      "weight": 5,
+      "dimensions": {
+        "width": 17,
+        "height": 24.57,
+        "depth": 13.3
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Xavier Wright",
+          "reviewerEmail": "xavier.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 9,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "1939383392674",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": "10",
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "category": "fragrances",
+      "price": 79.99,
+      "discountPercentage": 8.9,
+      "rating": 2.69,
+      "stock": 93,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Gucci",
+      "sku": "FFKZ6HOF",
+      "weight": 10,
+      "dimensions": {
+        "width": 22.28,
+        "height": 17.81,
+        "depth": 27.18
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aria Parker",
+          "reviewerEmail": "aria.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Natalie Harris",
+          "reviewerEmail": "natalie.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 10,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8232190382069",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": "11",
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "category": "furniture",
+      "price": 1899.99,
+      "discountPercentage": 0.29,
+      "rating": 4.14,
+      "stock": 47,
+      "tags": [
+        "furniture",
+        "beds"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "4KMDTZWF",
+      "weight": 3,
+      "dimensions": {
+        "width": 28.75,
+        "height": 26.88,
+        "depth": 24.47
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7113807059215",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+    },
+    {
+      "id": "12",
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "category": "furniture",
+      "price": 2499.99,
+      "discountPercentage": 18.54,
+      "rating": 3.08,
+      "stock": 16,
+      "tags": [
+        "furniture",
+        "sofas"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "LUU95CQP",
+      "weight": 3,
+      "dimensions": {
+        "width": 20.97,
+        "height": 19.11,
+        "depth": 25.81
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Tyler Davis",
+          "reviewerEmail": "tyler.davis@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Hannah Robinson",
+          "reviewerEmail": "hannah.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0426785817074",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+    },
+    {
+      "id": "13",
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "category": "furniture",
+      "price": 299.99,
+      "discountPercentage": 9.58,
+      "rating": 4.48,
+      "stock": 16,
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
+      "brand": "Furniture Co.",
+      "sku": "OWPLTZYX",
+      "weight": 10,
+      "dimensions": {
+        "width": 25.43,
+        "height": 20.2,
+        "depth": 24.95
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Avery Carter",
+          "reviewerEmail": "avery.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2913244159666",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+    },
+    {
+      "id": "14",
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "category": "furniture",
+      "price": 499.99,
+      "discountPercentage": 15.23,
+      "rating": 4.11,
+      "stock": 47,
+      "tags": [
+        "furniture",
+        "office chairs"
+      ],
+      "brand": "Knoll",
+      "sku": "RKHVJ4FE",
+      "weight": 3,
+      "dimensions": {
+        "width": 16.59,
+        "height": 21.46,
+        "depth": 29.07
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leah Gutierrez",
+          "reviewerEmail": "leah.gutierrez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Stella Morris",
+          "reviewerEmail": "stella.morris@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0726316339746",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+    },
+    {
+      "id": "15",
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "category": "furniture",
+      "price": 799.99,
+      "discountPercentage": 11.22,
+      "rating": 3.26,
+      "stock": 95,
+      "tags": [
+        "furniture",
+        "bathroom"
+      ],
+      "brand": "Bath Trends",
+      "sku": "7OLTIEVO",
+      "weight": 6,
+      "dimensions": {
+        "width": 7.32,
+        "height": 22.64,
+        "depth": 12.37
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harrison",
+          "reviewerEmail": "ava.harrison@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7839797529453",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+    },
+    {
+      "id": "16",
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "discountPercentage": 1.97,
+      "rating": 2.96,
+      "stock": 9,
+      "tags": [
+        "fruits"
+      ],
+      "sku": "QTROUV79",
+      "weight": 8,
+      "dimensions": {
+        "width": 8.29,
+        "height": 5.58,
+        "depth": 12.41
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elena Long",
+          "reviewerEmail": "elena.long@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 44,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2517819903837",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+    },
+    {
+      "id": "17",
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "category": "groceries",
+      "price": 12.99,
+      "discountPercentage": 17.99,
+      "rating": 2.83,
+      "stock": 96,
+      "tags": [
+        "meat"
+      ],
+      "sku": "BWWA2MSO",
+      "weight": 9,
+      "dimensions": {
+        "width": 23.35,
+        "height": 13.48,
+        "depth": 26.4
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Owen Fisher",
+          "reviewerEmail": "owen.fisher@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 21,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8335515097879",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+    },
+    {
+      "id": "18",
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "discountPercentage": 9.57,
+      "rating": 2.88,
+      "stock": 13,
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
+      "sku": "C3F8QN6O",
+      "weight": 9,
+      "dimensions": {
+        "width": 15.4,
+        "height": 13.97,
+        "depth": 25.13
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aurora Barnes",
+          "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ellie Stewart",
+          "reviewerEmail": "ellie.stewart@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 48,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "5503491330693",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+    },
+    {
+      "id": "19",
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 10.46,
+      "rating": 4.61,
+      "stock": 69,
+      "tags": [
+        "meat"
+      ],
+      "sku": "G5YEHW7B",
+      "weight": 7,
+      "dimensions": {
+        "width": 15.96,
+        "height": 29.24,
+        "depth": 26.25
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Sophia Jones",
+          "reviewerEmail": "sophia.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Harper Turner",
+          "reviewerEmail": "harper.turner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0966223559510",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+    },
+    {
+      "id": "20",
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "category": "groceries",
+      "price": 4.99,
+      "discountPercentage": 18.89,
+      "rating": 4.01,
+      "stock": 22,
+      "tags": [
+        "cooking essentials"
+      ],
+      "sku": "Q6ZP1UY8",
+      "weight": 8,
+      "dimensions": {
+        "width": 8.18,
+        "height": 27.45,
+        "depth": 27.88
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Jonathan Pierce",
+          "reviewerEmail": "jonathan.pierce@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Alexander Hernandez",
+          "reviewerEmail": "alexander.hernandez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "6707669443381",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+    },
+    {
+      "id": "21",
+      "title": "Cucumber",
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "category": "groceries",
+      "price": 1.49,
+      "discountPercentage": 11.44,
+      "rating": 4.71,
+      "stock": 22,
+      "tags": [
+        "vegetables"
+      ],
+      "sku": "6KGF2K6Z",
+      "weight": 9,
+      "dimensions": {
+        "width": 11.04,
+        "height": 20.5,
+        "depth": 8.18
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elijah Hill",
+          "reviewerEmail": "elijah.hill@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ella Cook",
+          "reviewerEmail": "ella.cook@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 7,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2597004869708",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
+    },
+    {
+      "id": "22",
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "category": "groceries",
+      "price": 10.99,
+      "discountPercentage": 18.15,
+      "rating": 2.74,
+      "stock": 40,
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
+      "sku": "A6QRCH37",
+      "weight": 2,
+      "dimensions": {
+        "width": 29.39,
+        "height": 29.77,
+        "depth": 20.54
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Alexander Jones",
+          "reviewerEmail": "alexander.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 29,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7957222289508",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
+    },
+    {
+      "id": "23",
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "category": "groceries",
+      "price": 2.99,
+      "discountPercentage": 5.8,
+      "rating": 4.46,
+      "stock": 10,
+      "tags": [
+        "dairy"
+      ],
+      "sku": "YA617RI7",
+      "weight": 4,
+      "dimensions": {
+        "width": 12.3,
+        "height": 10.99,
+        "depth": 15.53
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Perez",
+          "reviewerEmail": "mateo.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aurora Barnes",
+          "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 43,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7095702028776",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
+    },
+    {
+      "id": "24",
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "category": "groceries",
+      "price": 14.99,
+      "discountPercentage": 7,
+      "rating": 4.83,
+      "stock": 99,
+      "tags": [
+        "seafood"
+      ],
+      "sku": "XNIH1MTA",
+      "weight": 8,
+      "dimensions": {
+        "width": 20.14,
+        "height": 8.4,
+        "depth": 10.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Michael Johnson",
+          "reviewerEmail": "michael.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Lila Hudson",
+          "reviewerEmail": "lila.hudson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 49,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "4250692197342",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+    },
+    {
+      "id": "25",
+      "title": "Green Bell Pepper",
+      "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+      "category": "groceries",
+      "price": 1.29,
+      "discountPercentage": 15.5,
+      "rating": 4.28,
+      "stock": 89,
+      "tags": [
+        "vegetables"
+      ],
+      "sku": "HU7S7VQ0",
+      "weight": 7,
+      "dimensions": {
+        "width": 7.32,
+        "height": 14.31,
+        "depth": 21.38
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7583442707568",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
+    },
+    {
+      "id": "30",
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "category": "groceries",
+      "price": 2.49,
+      "discountPercentage": 10.32,
+      "rating": 4.37,
+      "stock": 1,
+      "tags": [
+        "fruits"
+      ],
+      "sku": "0X3NORB9",
+      "weight": 8,
+      "dimensions": {
+        "width": 27.3,
+        "height": 7.48,
+        "depth": 15.08
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Dylan Wells",
+          "reviewerEmail": "dylan.wells@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Noah Hernandez",
+          "reviewerEmail": "noah.hernandez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 8,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "3325493172934",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+    },
+    {
+      "id": "fbd9",
+      "title": "học lập trình",
+      "category": "mens-shirts",
+      "price": "999",
+      "discountPercentage": "10",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "description": "học reactjs"
+    },
+    {
+      "id": "ff20",
+      "title": "javaScrip1",
+      "category": "tops",
+      "price": "1000",
+      "discountPercentage": "20",
+      "thumbnail": "data:image/png;base64,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",
+      "description": "học javascript\n"
+    },
+    {
+      "id": "4a3f",
+      "title": "ádf2004",
+      "price": "4444",
+      "discountPercentage": "4",
+      "thumbnail": "âdf",
+      "description": "sf"
+    },
+    {
+      "id": "0636",
+      "title": "sdfsdf",
+      "price": "999",
+      "discountPercentage": "9",
+      "thumbnail": "sf"
+    },
+    {
+      "id": "ab07",
+      "title": "sdfsdf123",
+      "price": "999",
+      "discountPercentage": "9",
+      "thumbnail": "sf"
+    }
+  ],
+  "category": [
+    {
+      "slug": "beauty",
+      "name": "Beauty",
+      "url": "https://dummyjson.com/products/category/beauty",
+      "id": "849d"
+    },
+    {
+      "slug": "fragrances",
+      "name": "Fragrances",
+      "url": "https://dummyjson.com/products/category/fragrances",
+      "id": "8c99"
+    },
+    {
+      "slug": "furniture",
+      "name": "Furniture",
+      "url": "https://dummyjson.com/products/category/furniture",
+      "id": "cb07"
+    },
+    {
+      "slug": "groceries",
+      "name": "Groceries",
+      "url": "https://dummyjson.com/products/category/groceries",
+      "id": "1c2e"
+    },
+    {
+      "slug": "home-decoration",
+      "name": "Home Decoration",
+      "url": "https://dummyjson.com/products/category/home-decoration",
+      "id": "f5d0"
+    },
+    {
+      "slug": "kitchen-accessories",
+      "name": "Kitchen Accessories",
+      "url": "https://dummyjson.com/products/category/kitchen-accessories",
+      "id": "e93c"
+    },
+    {
+      "slug": "laptops",
+      "name": "Laptops",
+      "url": "https://dummyjson.com/products/category/laptops",
+      "id": "1220"
+    },
+    {
+      "slug": "mens-shirts",
+      "name": "Mens Shirts",
+      "url": "https://dummyjson.com/products/category/mens-shirts",
+      "id": "55e9"
+    },
+    {
+      "slug": "mens-shoes",
+      "name": "Mens Shoes",
+      "url": "https://dummyjson.com/products/category/mens-shoes",
+      "id": "9446"
+    },
+    {
+      "slug": "mens-watches",
+      "name": "Mens Watches",
+      "url": "https://dummyjson.com/products/category/mens-watches",
+      "id": "9d68"
+    },
+    {
+      "slug": "mobile-accessories",
+      "name": "Mobile Accessories",
+      "url": "https://dummyjson.com/products/category/mobile-accessories",
+      "id": "02b6"
+    },
+    {
+      "slug": "motorcycle",
+      "name": "Motorcycle",
+      "url": "https://dummyjson.com/products/category/motorcycle",
+      "id": "ffb1"
+    },
+    {
+      "slug": "skin-care",
+      "name": "Skin Care",
+      "url": "https://dummyjson.com/products/category/skin-care",
+      "id": "0cc4"
+    },
+    {
+      "slug": "smartphones",
+      "name": "Smartphones",
+      "url": "https://dummyjson.com/products/category/smartphones",
+      "id": "7833"
+    },
+    {
+      "slug": "sports-accessories",
+      "name": "Sports Accessories",
+      "url": "https://dummyjson.com/products/category/sports-accessories",
+      "id": "17ca"
+    },
+    {
+      "slug": "sunglasses",
+      "name": "Sunglasses",
+      "url": "https://dummyjson.com/products/category/sunglasses",
+      "id": "eb37"
+    },
+    {
+      "slug": "tablets",
+      "name": "Tablets",
+      "url": "https://dummyjson.com/products/category/tablets",
+      "id": "5b0f"
+    },
+    {
+      "slug": "tops",
+      "name": "Tops",
+      "url": "https://dummyjson.com/products/category/tops",
+      "id": "e36f"
+    },
+    {
+      "slug": "vehicle",
+      "name": "Vehicle",
+      "url": "https://dummyjson.com/products/category/vehicle",
+      "id": "53d4"
+    },
+    {
+      "slug": "womens-bags",
+      "name": "Womens Bags",
+      "url": "https://dummyjson.com/products/category/womens-bags",
+      "id": "7df5"
+    },
+    {
+      "slug": "womens-dresses",
+      "name": "Womens Dresses",
+      "url": "https://dummyjson.com/products/category/womens-dresses",
+      "id": "243f"
+    },
+    {
+      "slug": "womens-jewellery",
+      "name": "Womens Jewellery",
+      "url": "https://dummyjson.com/products/category/womens-jewellery",
+      "id": "a721"
+    },
+    {
+      "slug": "womens-shoes",
+      "name": "Womens Shoes",
+      "url": "https://dummyjson.com/products/category/womens-shoes",
+      "id": "fd18"
+    },
+    {
+      "slug": "womens-watches",
+      "name": "Womens Watches",
+      "url": "https://dummyjson.com/products/category/womens-watches",
+      "id": "1ad8"
+    }
+  ]
+}
